@@ -36,3 +36,5 @@ In order to get the shop up and running, you will need:
 
 All other technologies should be provided with teh pom.xml file included in the cloned repository. Use the command below to glone the project:
 ```git clone https://github.com/Shawntaria91/BeesBeignets.git```
+
+You will need to connect a database and modify the sql.properties file, adding your credentials. 
