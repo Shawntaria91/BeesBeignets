@@ -29,4 +29,10 @@ DELETE:
 PUT:
 * Ability to modify and update an item or order: http://localhost:9001/update
 ## Getting Started
-git clone https://github.com/Shawntaria91/BeesBeignets.git
+In order to get the shop up and running, you will need: 
+1. Java 8 or later. 
+2. Tomcat 9.0
+3. Postman
+
+All other technologies should be provided with teh pom.xml file included in the cloned repository. Use the command below to glone the project:
+```git clone https://github.com/Shawntaria91/BeesBeignets.git```
